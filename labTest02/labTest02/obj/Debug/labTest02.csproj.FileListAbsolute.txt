@@ -1,0 +1,12 @@
+D:\tasneem\labTest02\labTest02\labTest02\bin\labTest02.dll.config
+D:\tasneem\labTest02\labTest02\labTest02\bin\labTest02.dll
+D:\tasneem\labTest02\labTest02\labTest02\bin\labTest02.pdb
+D:\tasneem\labTest02\labTest02\labTest02\obj\Debug\labTest02.csprojResolveAssemblyReference.cache
+D:\tasneem\labTest02\labTest02\labTest02\obj\Debug\labTest02.dll
+D:\tasneem\labTest02\labTest02\labTest02\obj\Debug\labTest02.pdb
+F:\New Practice\labTest02\labTest02\labTest02\bin\labTest02.dll.config
+F:\New Practice\labTest02\labTest02\labTest02\bin\labTest02.dll
+F:\New Practice\labTest02\labTest02\labTest02\bin\labTest02.pdb
+F:\New Practice\labTest02\labTest02\labTest02\obj\Debug\labTest02.csprojResolveAssemblyReference.cache
+F:\New Practice\labTest02\labTest02\labTest02\obj\Debug\labTest02.dll
+F:\New Practice\labTest02\labTest02\labTest02\obj\Debug\labTest02.pdb
